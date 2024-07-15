@@ -1,4 +1,4 @@
-# Portfólio de Projetos
+# Portfólio do Projeto - CRUD em python
 
 ## Sobre Mim
 Olá, senhoras e senhores! Sou o Douglas, um desenvolvedor dedicado a criar soluções inovadoras. Este repositório apresenta um dos meus projetos recentes, cujo objetivo é carregar um CSV e inserir seus dados em um banco de dados SQLite, aplicando critérios de validação nos campos nome, email, telefone e endereço. Além disso, o sistema permite operações de CRUD (Create, Read, Update, Delete) para gerenciar contatos dentro deste ambiente. Abaixo, descrevo as tecnologias utilizadas e como cada uma pode ser executada. Sinta-se à vontade para explorar o código e entrar em contato para qualquer dúvida ou colaboração.
